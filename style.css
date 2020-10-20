@@ -1,0 +1,19 @@
+.parent{
+    height: 300px;
+    border: 2px solid purple;
+
+    display: flex;
+}
+
+.child{
+    background: white;
+    padding: 5px;
+    color: teal;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    height: 175px;
+    width: 125px;
+    margin: auto;
+    /*  */
+}
